@@ -1,0 +1,2 @@
+# RailsBlog
+Blog in RoR
